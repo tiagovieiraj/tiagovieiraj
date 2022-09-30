@@ -1,6 +1,6 @@
-## Olá! Eu sou o Tiago Vieira
+## Olá! Eu sou o Tiago Vieira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 Desenvolvedor Front-end em formação <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 🔭 Desenvolvedor Front-end em formação 
 - 🌱 Estudando ReactJS | Typescript | HTML5 | CSS3
 - 😄 Pronouns: ele/dele
 
