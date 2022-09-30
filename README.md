@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Front-end em formação 
 - 🌱 Estudando ReactJS | Typescript | HTML5 | CSS3
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/tiagovieiraj">
